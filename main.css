@@ -1,0 +1,28 @@
+/******w**************
+    
+    Assignment 4 Stylesheet
+    Name: Samuel Musafiri
+    Date: 2024-07-05
+    Description: Styles File 
+
+*********************/
+body {
+    font-family: Arial, sans-serif;
+}
+
+.form-container {
+    margin: 20px;
+}
+
+.results-container {
+    margin: 20px;
+}
+
+.result {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.no-results {
+    color: red;
+}
